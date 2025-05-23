@@ -1,4 +1,4 @@
-# Coinbase AgentKit with Strands Framework
+# Coinbase AgentKit with Strands Agents Framework
 
 This project demonstrates an intelligent agent that interacts with blockchain networks using the Coinbase Developer Platform (CDP) AgentKit, powered by the Strands Agents framework and Amazon Bedrock for AI capabilities.
 

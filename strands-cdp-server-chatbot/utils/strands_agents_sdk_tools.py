@@ -1,4 +1,4 @@
-"""Strands integration tools for AgentKit."""
+"""Formatting AgentKit actions as tools for Strands Agents"""
 
 import functools
 import inspect

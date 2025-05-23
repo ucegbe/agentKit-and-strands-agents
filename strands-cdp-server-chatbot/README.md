@@ -65,6 +65,8 @@ AWS_REGION=us-east-1
 python chatbot.py
 ```
 
+For a step by step implementation, you can run execute the `strands-agentkit.ipynb` notebook.
+
 You'll be prompted to choose between two modes:
 
 1. **Chat Mode** - Interactive conversation with the agent

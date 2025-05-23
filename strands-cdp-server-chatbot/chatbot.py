@@ -156,7 +156,7 @@ async def run_autonomous_mode(agent, interval=10):
             print("-------------------")
 
             # Wait before the next action
-            time.sleep(interval)
+            await asyncio.sleep(interval)
 
         except KeyboardInterrupt:
             print("Goodbye Agent!")

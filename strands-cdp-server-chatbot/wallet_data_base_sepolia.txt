@@ -1,5 +1,0 @@
-{
-  "address": "0x91FEcF46972757086D78bfB569Adb6A2748122f8",
-  "network_id": "base-sepolia",
-  "created_at": "2025-05-23 19:10:50"
-}
